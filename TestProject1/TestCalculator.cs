@@ -7,6 +7,8 @@ using System.IO;
 
 namespace TestProject1
 {
+    //Test class for the Calculator web applications
+
     [TestFixture]
     public class TestCalculator
     {
